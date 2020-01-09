@@ -1,0 +1,22 @@
+{ "EmpDetails" : 
+    [
+        {
+            "id" :  1,
+        "FirstName" : "Vini",
+        "SKill" : "Angular",
+        "Team" : "UI Services"
+        },
+    {
+        "id" : 2,
+        "FirstName": "Preethi",
+        "SKill" : "React",
+        "Team" : "RBI"
+    },
+    {
+        "id" : 3,
+        "FirstName": "Sharmi",
+        "SKill" : "Bootstrap",
+        "Team" : "Indiana University"
+    }
+]
+}
